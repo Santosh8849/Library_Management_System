@@ -1,0 +1,39 @@
+body {
+  background-color:url("final.jpeg");;
+}
+
+.registration-form {
+  padding: 50px 0;
+  padding-top: 15px;
+}
+
+.registration-form form {
+  background-color: #fff;
+  max-width: 600px;
+  margin: auto;
+  padding: 50px 70px;
+  border-radius: 50px;
+  box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.075);
+}
+
+.registration-form .item {
+  border-radius: 20px;
+  margin-bottom: 5px;
+  padding: 10px 20px;
+}
+
+.registration-form .create-account {
+  border-radius: 30px;
+  padding: 10px 20px;
+  font-size: 18px;
+  font-weight: bold;
+  background-color: #5791ff;
+  border: none;
+  color: white;
+  margin-top: 20px;
+}
+
+.notuser {
+  margin-top: 30px;
+  
+}
